@@ -9,3 +9,6 @@
 * dosa batter
 * oil
 * karram paste
+
+# Egg-dosa
+* dosa batter
