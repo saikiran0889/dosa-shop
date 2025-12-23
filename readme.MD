@@ -16,5 +16,4 @@
 
 # paneer-dosa
 * dosa batter
-* paneer 
-* onion & tamato
+
